@@ -1,8 +1,5 @@
 var member=[
 {"phone":"","name":"李恺"},
-{"phone":"","name":"张瑞琦"},
-{"phone":"","name":"李卓奎"},
-{"phone":"","name":"张浩驰"},
 {"phone":"","name":"孙梦楚"},
 {"phone":"","name":"王锴"},
 {"phone":"","name":"孙屹婷"},
@@ -47,16 +44,8 @@ var member=[
 {"phone":"","name":"周婷"},
 {"phone":"","name":"曹梦欣"},
 {"phone":"","name":"范琳琳"},
-{"phone":"","name":"李月婷"},
 {"phone":"","name":"林丽雪"},
-{"phone":"","name":"李金笑"},
-{"phone":"","name":"裴畇珲"},
-{"phone":"","name":"蒋竑诣"},
-{"phone":"","name":"彭雅琴"},
-{"phone":"","name":"相智孝"},
-{"phone":"","name":"胡艺凡"},
 {"phone":"","name":"朱佳妮"},
-{"phone":"","name":"陈映佩"},
-{"phone":"","name":"曹一言"},
-{"phone":"","name":"杨祎圭"}
+{"phone":"","name":"高筱凡"},
+{"phone":"","name":"郑皓昀"}
 ]
