@@ -51,5 +51,6 @@ var member=[
 {"phone":"","name":"裴畇珲"},
 {"phone":"","name":"满月"},
 {"phone":"","name":"胡艺凡"},
-{"phone":"","name":"余思佳"}
+{"phone":"","name":"余思佳"},
+{"phone":"","name":"李金笑"}
 ]
