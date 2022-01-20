@@ -247,7 +247,7 @@
                 },
                 toggle: function(){
                     if(this.running){
-                        TagCanvas.SetSpeed('myCanvas', [10, 1]);
+                        TagCanvas.SetSpeed('myCanvas', [100, 1]);
                         var ret = lottery(this.selected);
                         if (ret.length === 0) {
                             $('#result').css('display', 'block').html('<span>已抽完</span>');
